@@ -1,0 +1,1 @@
+This is a simple snake game I made using pygames. I set up the code to include images for the snake bet never actually ended up putting anything cool in there because I got caught up with school. I may come back to it later to refine and finish it.
